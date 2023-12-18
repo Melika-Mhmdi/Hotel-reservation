@@ -1325,49 +1325,58 @@
   ],
   "bookmarks": [
     {
-      "cityName": "Abalessa",
-      "country": "Algeria",
-      "countryCode": "DZ",
-      "latitude": "23.18455079512732",
-      "longitude": "3.795523257510883",
-      "host_location": "Abalessa Algeria",
+      "cityName": "Kortemark",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "latitude": "51.01110536763813",
+      "longitude": "3.004671316921468",
+      "host_location": "KortemarkBelgium",
       "id": 1
     },
     {
-      "cityName": "Mahidasht",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "latitude": "34.32869425037187",
-      "longitude": "46.724183117022086",
-      "host_location": "Mahidasht Iran (Islamic Republic of)",
+      "cityName": "Staden",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "latitude": "50.98464636230282",
+      "longitude": "3.0005537950343",
+      "host_location": "StadenBelgium",
+      "id": 2
+    },
+    {
+      "cityName": "Ichtegem",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "latitude": "51.08307834433997",
+      "longitude": "2.9986856027104207",
+      "host_location": "IchtegemBelgium",
+      "id": 3
+    },
+    {
+      "cityName": "Morsbach",
+      "country": "Germany",
+      "countryCode": "DE",
+      "latitude": "50.87018321614777",
+      "longitude": "7.6945886985926",
+      "host_location": "MorsbachGermany",
       "id": 4
     },
     {
-      "cityName": "Sanandaj",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "latitude": "35.31372444726279",
-      "longitude": "47.03114358752335",
-      "host_location": "Sanandaj Iran (Islamic Republic of)",
+      "cityName": "Bronkhorst",
+      "country": "Netherlands (Kingdom of the)",
+      "countryCode": "NL",
+      "latitude": "52.09825526771417",
+      "longitude": "6.237630797556842",
+      "host_location": "BronkhorstNetherlands (Kingdom of the)",
       "id": 5
     },
     {
-      "cityName": "A Dakhla Oasis",
-      "country": "Egypt",
-      "countryCode": "EG",
-      "latitude": "25.02090651422749",
-      "longitude": "29.09059588509316",
-      "host_location": "A Dakhla Oasis Egypt",
-      "id": 7
-    },
-    {
-      "cityName": "Baba Kot",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "latitude": "28.43528783183169",
-      "longitude": "67.78003711374224",
-      "host_location": "Baba Kot Pakistan",
-      "id": 8
+      "cityName": "Zutphen",
+      "country": "Netherlands (Kingdom of the)",
+      "countryCode": "NL",
+      "latitude": "52.13479267798808",
+      "longitude": "6.29269294724372",
+      "host_location": "ZutphenNetherlands (Kingdom of the)",
+      "id": 6
     }
   ]
 }
